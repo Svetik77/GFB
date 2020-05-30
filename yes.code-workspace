@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "..\\..\\..\\MyVisualStudios\\VSProjects\\MyJsThiis"
+	},
+	{
+		"path": "..\\..\\..\\MyVisualStudios\\VSProjects\\MyRegex\\Ninja"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Ninja"
+  }
+}
